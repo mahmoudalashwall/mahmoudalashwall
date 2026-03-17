@@ -21,7 +21,7 @@ mahmoud@soc:~$ cat profile.txt
   ╠══════════════════════════════════════════╣
   ║  🎓 Field   » Computer Science          ║
   ║  🔐 Track   » Cybersecurity             ║
-  ║  🖥️  Focus   » SOC Analysis & IR        ║
+  ║  🖥️ Focus   » SOC Analysis & IR        ║
   ║  🐍 Lang    » Python                    ║
   ║  🚀 Status  » Learning & Building       ║
   ╚══════════════════════════════════════════╝
