@@ -1,16 +1,66 @@
-## Hi there 👋
+<!-- Profile README for @mahmoudalashwall -->
+<!-- Replace YOUR_EMAIL, YOUR_LINKEDIN, YOUR_FACEBOOK with actual links -->
 
-<!--
-**mahmoudalashwall/mahmoudalashwall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 🛡️ Mahmoud Alashwal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**`Computer Science Student | Cybersecurity Track | SOC Analysis`**
+
+</div>
+
+---
+
+## 👾 whoami
+
+```python
+profile = {
+    "name":      "Mahmoud Alashwal",
+    "field":     "Computer Science",
+    "track":     "Cybersecurity",
+    "focus":     "SOC Analysis & Incident Response",
+    "language":  "Python 🐍",
+    "status":    "Learning & Building"
+}
+```
+
+---
+
+## 🔧 SOC Toolkit
+
+| Tool | Purpose |
+|------|---------|
+| 🦈 **Wireshark** | Network traffic capture & packet analysis |
+| 🔍 **NetworkMiner** | Passive network forensics & asset discovery |
+| 📊 **Splunk** | SIEM — log aggregation & alert correlation |
+| 🗺️ **Nmap** | Network scanning & service enumeration |
+| 🚨 **Snort / Suricata** | Intrusion detection & rule-based alerting |
+| 🧬 **VirusTotal** | Hash-based malware & IOC lookup |
+| 🧠 **Volatility** | Memory forensics & artifact extraction |
+| 🌐 **OpenCTI** | Threat intelligence platform & IOC tracking |
+| 🎯 **TheHive** | Incident response case management |
+
+---
+
+## ⚡ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Network Analysis](https://img.shields.io/badge/Network_Analysis-00CC66?style=flat)
+![SIEM](https://img.shields.io/badge/SIEM-FF6B35?style=flat)
+![Threat Detection](https://img.shields.io/badge/Threat_Detection-00CC66?style=flat)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-00CC66?style=flat)
+![Malware Triage](https://img.shields.io/badge/Malware_Triage-E3B341?style=flat)
+
+---
+
+## 📬 Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alashwalmahmoud691@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CRGjj4JbV/)
+
+---
+
+<div align="center">
+  <i>"Hunting threats, one packet at a time." 🔐</i>
+</div>
