@@ -12,16 +12,21 @@
 ---
 
 ## 👾 whoami
+```console
+mahmoud@soc:~$ cat profile.txt
 
-```python
-profile = {
-    "name":      "Mahmoud Alashwal",
-    "field":     "Computer Science",
-    "track":     "Cybersecurity",
-    "focus":     "SOC Analysis & Incident Response",
-    "language":  "Python 🐍",
-    "status":    "Learning & Building"
-}
+  ╔══════════════════════════════════════════╗
+  ║         MAHMOUD ALASHWAL                ║
+  ║         SOC Analyst in Training         ║
+  ╠══════════════════════════════════════════╣
+  ║  🎓 Field   » Computer Science          ║
+  ║  🔐 Track   » Cybersecurity             ║
+  ║  🖥️  Focus   » SOC Analysis & IR        ║
+  ║  🐍 Lang    » Python                    ║
+  ║  🚀 Status  » Learning & Building       ║
+  ╚══════════════════════════════════════════╝
+
+mahmoud@soc:~$ █
 ```
 
 ---
@@ -56,8 +61,8 @@ profile = {
 ## 📬 Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alashwalmahmoud691@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CRGjj4JbV/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CRGjj4JbV/)
 
 ---
 
