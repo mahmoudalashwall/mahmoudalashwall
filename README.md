@@ -19,11 +19,10 @@ mahmoud@soc:~$ cat profile.txt
   ║         MAHMOUD ALASHWAL                ║
   ║         SOC Analyst in Training         ║
   ╠══════════════════════════════════════════╣
-  ║  🎓 Field   » Computer Science          ║
-  ║  🔐 Track   » Cybersecurity             ║
+  ║  🎓 Field   » Computer Science         ║
+  ║  🔐 Track   » Cybersecurity            ║
   ║  🖥️ Focus   » SOC Analysis & IR        ║
-  ║  🐍 Lang    » Python                    ║
-  ║  🚀 Status  » Learning & Building       ║
+  ║  🚀 Status  » Learning & Building      ║
   ╚══════════════════════════════════════════╝
 
 mahmoud@soc:~$ █
@@ -46,7 +45,6 @@ mahmoud@soc:~$ █
 | 🎯 **TheHive** | Incident response case management |
 
 ---
-
 ## ⚡ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -56,7 +54,35 @@ mahmoud@soc:~$ █
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-00CC66?style=flat)
 ![Malware Triage](https://img.shields.io/badge/Malware_Triage-E3B341?style=flat)
 
----
+<details>
+<summary>🐍 Python</summary>
+Writing automation scripts for log parsing, IOC extraction, and threat hunting tasks.
+</details>
+
+<details>
+<summary>📡 Network Analysis</summary>
+Capturing and analyzing network traffic using Wireshark & NetworkMiner to detect anomalies and suspicious activity.
+</details>
+
+<details>
+<summary>📊 SIEM</summary>
+Working with Splunk to aggregate logs, build correlation rules, and investigate security alerts.
+</details>
+
+<details>
+<summary>🔍 Threat Detection</summary>
+Identifying indicators of compromise (IOCs) and mapping attacker behavior to the MITRE ATT&CK framework.
+</details>
+
+<details>
+<summary>📋 Log Analysis</summary>
+Parsing and reviewing system, network, and application logs to identify suspicious patterns and security events.
+</details>
+
+<details>
+<summary>🧬 Malware Triage</summary>
+Performing static analysis on suspicious files using VirusTotal and hash lookups to determine threat level.
+</details>
 
 ## 📬 Connect
 
