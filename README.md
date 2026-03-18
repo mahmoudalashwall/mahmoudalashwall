@@ -63,8 +63,8 @@ mahmoud@soc:~$ █
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MahmoudAlashwal)
 
-![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/MahmoudAlashwal.png) 
----
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MahmoudAlashwal.png)](https://tryhackme.com/p/MahmoudAlashwal)
+```
 
 <div align="center">
   <i>"Hunting threats, one packet at a time." </i>
