@@ -59,15 +59,12 @@ mahmoud@soc:~$ █
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CRGjj4JbV/)
 
-##  TryHackMe
+##  CTF & Training Platforms
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MahmoudAlashwal)
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MahmoudAlashwal.png)](https://tryhackme.com/p/MahmoudAlashwal)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-1A1A2E?style=flat&logo=shield&logoColor=00CC66)](https://cyberdefenders.org/p/MahmoudAlashwal)
 
 ---
 
 
-<div align="center">
-  <i>"Hunting threats, one packet at a time." </i>
-</div>
