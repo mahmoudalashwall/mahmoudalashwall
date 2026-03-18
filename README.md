@@ -47,43 +47,12 @@ mahmoud@soc:~$ █
 ---
 ## ⚡ Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Network Analysis](https://img.shields.io/badge/Network_Analysis-00CC66?style=flat)
-![SIEM](https://img.shields.io/badge/SIEM-FF6B35?style=flat)
-![Threat Detection](https://img.shields.io/badge/Threat_Detection-00CC66?style=flat)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-00CC66?style=flat)
-![Malware Triage](https://img.shields.io/badge/Malware_Triage-E3B341?style=flat)
-
-<details>
-<summary>🐍 Python</summary>
-Writing automation scripts for log parsing, IOC extraction, and threat hunting tasks.
-</details>
-
-<details>
-<summary>📡 Network Analysis</summary>
-Capturing and analyzing network traffic using Wireshark & NetworkMiner to detect anomalies and suspicious activity.
-</details>
-
-<details>
-<summary>📊 SIEM</summary>
-Working with Splunk to aggregate logs, build correlation rules, and investigate security alerts.
-</details>
-
-<details>
-<summary>🔍 Threat Detection</summary>
-Identifying indicators of compromise (IOCs) and mapping attacker behavior to the MITRE ATT&CK framework.
-</details>
-
-<details>
-<summary>📋 Log Analysis</summary>
-Parsing and reviewing system, network, and application logs to identify suspicious patterns and security events.
-</details>
-
-<details>
-<summary>🧬 Malware Triage</summary>
-Performing static analysis on suspicious files using VirusTotal and hash lookups to determine threat level.
-</details>
-
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![Network Analysis](https://img.shields.io/badge/Network_Analysis-00CC66?style=flat)](https://wiki.wireshark.org/NetworkAnalysis)
+[![SIEM](https://img.shields.io/badge/SIEM-FF6B35?style=flat)](https://en.wikipedia.org/wiki/Security_information_and_event_management)
+[![Threat Detection](https://img.shields.io/badge/Threat_Detection-00CC66?style=flat)](https://attack.mitre.org/)
+[![Log Analysis](https://img.shields.io/badge/Log_Analysis-00CC66?style=flat)](https://docs.splunk.com/Documentation/Splunk/latest/SearchTutorial/Aboutthismanual)
+[![Malware Triage](https://img.shields.io/badge/Malware_Triage-E3B341?style=flat)](https://www.virustotal.com/gui/home/upload)
 ## 📬 Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alashwalmahmoud691@gmail.com)
